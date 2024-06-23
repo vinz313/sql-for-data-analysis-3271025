@@ -19,6 +19,7 @@ To use these exercise files, you must have the following installed:
 3. Install the HTML Preview or Open in Default Browser extensions in VS Code to open html files to view.
 4. Before starting this exercise, Create V_Orders View for Chapter 5 Dashboard by running the "Create View V_Orders.sql" file.
 
+Test.
 
 ## Tips
 1. For Chapter 5, restart the kernel to stop the dashboard from running on port 8050.
